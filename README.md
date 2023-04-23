@@ -11,3 +11,6 @@
 
 # tender list screen
 ![tenderdetailscreen](https://user-images.githubusercontent.com/124202145/233842621-740e38bb-46e1-4d6d-a99c-ce91e1f2cb11.png)
+
+# tender details screens
+![tenderdetails](https://user-images.githubusercontent.com/124202145/233842506-8ebbd823-de0d-4644-af28-b5a3532f832c.png)
