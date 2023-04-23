@@ -8,3 +8,6 @@
 
 #sign in screen
 ![signin](https://user-images.githubusercontent.com/124202145/233842498-0c0e4a88-c664-4f64-b797-b693bb34aacc.png)
+
+# tender list screen
+![tenderdetailscreen](https://user-images.githubusercontent.com/124202145/233842621-740e38bb-46e1-4d6d-a99c-ce91e1f2cb11.png)
